@@ -28,6 +28,6 @@ const findByVal = (array, value) => {
   return findByVal(array.slice(0, middleIndex), value);
 };
 
-const array = [-5, -1, 0, 1, 5, 7, 777]; //
+const array = [-5, -1, 0, 1, 3, 7, 777]; //
 console.log(findByVal(array, 7)); //  array[?] === 7 ---> 5
 console.log(findByVal(array, -58)); // There is no such member in the array.
