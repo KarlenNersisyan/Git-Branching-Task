@@ -6,15 +6,16 @@
 
 ### Task 1: First Developer
 
-* Create github repository with name *git_branching_task*
+- Create github repository with name _git_branching_task_
 
-* Init local git repository
+- Init local git repository
 
-* Add remote origin git_task repository URL
+- Add remote origin git_task repository URL
 
-* Create maxPossible.js file (in your local git_task folder)
+- Create maxPossible.js file (in your local git_task folder)
 
-    * add solution of this task in maxPossible.js file
+  - add solution of this task in maxPossible.js file
+
 ```
 Write a function that makes the first number as large as possible by
 swapping out its digits for digits in the second number.
@@ -26,65 +27,70 @@ maxPossible(9132, 5564) ➞ 9655
 maxPossible(8732, 91255) ➞ 9755
 
 ```
-* Commit the changes and push to a remote repository
-* Create README.md file (in github git_task repository)
-    * Add description of the task above.
-    * Create a hyperlink in the file which would redirect to a task solution (in the maxPossible.js file)
+
+- Commit the changes and push to a remote repository
+- Create README.md file (in github git_task repository)
+  - Add description of the task above.
+  - Create a hyperlink in the file which would redirect to a task solution (in the maxPossible.js file)
 
 ## Task 2: Second Developer
 
-* Pull changes from remote repository
-* Create users.js file
-    * add user object
+- Pull changes from remote repository
+- Create _users.js_ file
+  - add user object
 
 const user = {
-    fistname: "Karl",
-    lastname: "Nersisyan",
-    age: 22,
+fistname: "Karl",
+lastname: "Nersisyan",
+age: 22,
 };
 
-* Create index.js file
-* Add .gitignore file
-* Add index.js to gitignore
-* Commit the changes
-* Push everything to github
-* Open an issue with random text for this repo
-* Add new branch whith name newBranch
-* Switch to a new branch
-* Check status
-* Create users.js file
-    * add user object
+- Create index.js file
+- Add .gitignore file
+- Add index.js to gitignore
+- Commit the changes
+- Push everything to github
+- Open an issue with random text for this repo
+- Add new branch whith name newBranch
+- Switch to a new branch
+- Check status
+- Create users.js file
+  - add user object
+
 ```
 const user = "Karl Nersisyan";
 ```
 
-* Add to staging area
-* Commit with message
-* Switch to main branch
-* Check your folder(how many files are there)
-* Merge newBranch with main branch
-* Delete merged branch(myNewBranch)
-* Check your folder to find all files , that already in main branch
+- Add to staging area
+- Commit with message
+- Switch to main branch
+- Check your folder(how many files are there)
+- Merge newBranch with main branch
+- Delete merged branch(myNewBranch)
+- Check your folder to find all files , that already in main branch
 
 ## Task 3: First Developer
 
-* Create new branch *prBranch*
-* Create *pr.js*
-* Write your best code in *pr.js*
-* Open a Pull Request with *prBranch*
+- Create new branch _prBranch_
+- Create _pr.js_
+- Write your best code in _pr.js_
+- Open a Pull Request with _prBranch_
 
 ## Task 4: Second Developer
 
-* Make Code Review
+- Make Code Review
 
 ## Task 5: First Developer
-* Make Changes
+
+- Make Changes
 
 ## Task 6:
-* Merge PR
+
+- Merge PR
 
 ## Task 7:
-* Repeat everything we've just done 10000 times so you'll remember everything.
+
+- Repeat everything we've just done 10000 times so you'll remember everything.
 
 ## Literature
 
