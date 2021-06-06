@@ -1,1 +1,1 @@
- const user2 = "Arevik Hayrapetyan"
+ const user2 = "AREVIK HAYRAPETYAN"
