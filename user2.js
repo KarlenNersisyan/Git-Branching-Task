@@ -1,0 +1,1 @@
+ const user2 = "AREVIK HAYRAPETYAN"
